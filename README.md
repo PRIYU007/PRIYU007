@@ -1,6 +1,6 @@
 <div>
 
-# ?? Hey there, I am Priyanshu Bhandari <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+# 👋 Hey there, I am Priyanshu Bhandari <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
 
 </div>
 
