@@ -6,18 +6,18 @@
 
 <div>
 
-<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/PRIYU007?label=follow&logo=github&style=flat-square"> -->
+<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/priyucodes?label=follow&logo=github&style=flat-square"> -->
 
-![](https://img.shields.io/github/followers/PRIYU007?label=follow&logo=github&style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/PRIYU007?label=%E2%AD%90GitHub%20stars&style=flat-square)
-![](https://komarev.com/ghpvc/?username=PRIYU007&style=flat-square&color=ff69b4)
+![](https://img.shields.io/github/followers/priyucodes?label=follow&logo=github&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/priyucodes?label=%E2%AD%90GitHub%20stars&style=flat-square)
+![](https://komarev.com/ghpvc/?username=priyucodes&style=flat-square&color=ff69b4)
 
 </div>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PRIYU007&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyucodes&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-![PRIYANSHU's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRIYU007&show_icons=true&theme=radical&layout=compact)
+![PRIYANSHU's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyucodes&show_icons=true&theme=radical&layout=compact)
 
 ---
 
